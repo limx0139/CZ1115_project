@@ -13,7 +13,7 @@ We make use of the following dataset:
 https://web.chessdigits.com/data
 where the author, Patrizsche, https://lichess.org/@/Patrizsche, has corroborated from the lichess database, which is a database of online chess games played on Lichess, one of the biggest online chess websites in the world.
 
-Common Chess Terminology used in this Project
+## Common Chess Terminology used in this Project
 
     White: Player with white colored pieces, starts first
     Black: Player with black colored pieces, starts second
@@ -53,7 +53,7 @@ Common Chess Terminology used in this Project
     
     
 
-Why some openings are more frequent than others
+## Why some openings are more frequent than others
     1. Popularity
         Players like to stick to openings they are familiar with
     2. Ease of getting to the opening(# of moves before the opening is 'officially' on the board)
@@ -63,10 +63,10 @@ Why some openings are more frequent than others
     
         While chess is generally thought to be a balanced game, openings may not be. Though white has an inherrent advantage(both theoratically with the advantage of the first move, and statistically, that white wins more by a few percentages overall), some openings give one side a very large advantage, leading to a disproportionately high winrate, even accounting for white's advantage, and as a result are generally avoided by better players.
 
-Our Expectations
+## Our Expectations
     We expect uwu the opening to play a much stronger role in deciding the game for lower rated games as well as shorter time controls than otherwise as we believe, stronger players will be able to choose the right openings that do not give their opponent too much of an advantage, and that as time control increases, move accuracy would also increase, reducing the possible advantage gained in the opening.
 
-For each bracket, we wish to find an optimal opening for each side, characterised by relative ease to achieve and relatively high winrates.
+## For each bracket, we wish to find an optimal opening for each side, characterised by relative ease to achieve and relatively high winrates.
 
 
 
