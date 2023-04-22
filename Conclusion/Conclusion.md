@@ -97,4 +97,3 @@ The rest
 
 
 
-Not much difference between low and mid, for the visual representation, we will combine them to form 1 group
