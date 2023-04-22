@@ -67,7 +67,7 @@ where the author, Patrizsche, https://lichess.org/@/Patrizsche, has corroborated
 For each bracket, we wish to find an optimal opening for each side, characterised by relative ease to achieve and relatively high winrates.
 
 ## Methodology:
-We split the dataset into categories, based on the players' average rating and the time control of a game. Then, for each dataset, we find the average win rates for each opening for white and black, and plot a classification graph on the dataset so see how the former would hold up down the classification tree. That is, we analyse what openings players tend to choose given the disparity in their strength relative to their opponent and how their choice plays out for them. While we did perform the analysis for all the categories we made, the format of the project meant that we would focus on two categories in particular, the blitz time control compared to the general dataset.
+    We split the dataset into categories, based on the players' average rating and the time control of a game. Then, for each dataset, we find the average win rates for each opening for white and black, and plot a classification graph on the dataset so see how the former would hold up down the classification tree. That is, we analyse what openings players tend to choose given the disparity in their strength relative to their opponent and how their choice plays out for them. While we did perform the analysis for all the categories we made, the format of the project meant that we would focus on two categories in particular, the blitz time control compared to the general dataset.
 
 
 
