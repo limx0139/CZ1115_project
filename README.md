@@ -59,8 +59,6 @@ where the author, Patrizsche, https://lichess.org/@/Patrizsche, has corroborated
     2. Ease of getting to the opening(# of moves before the opening is 'officially' on the board)
         ie. most openings are reached in the first 2 moves, 2 white moves, 2 black moves, but some may be reached in 1, making them more frequent
     3. Relative advantage of each side
-    
-    
         While chess is generally thought to be a balanced game, openings may not be. Though white has an inherrent advantage(both theoratically with the advantage of the first move, and statistically, that white wins more by a few percentages overall), some openings give one side a very large advantage, leading to a disproportionately high winrate, even accounting for white's advantage, and as a result are generally avoided by better players.
 
 ## Our Expectations
