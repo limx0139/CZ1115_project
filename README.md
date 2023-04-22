@@ -66,7 +66,7 @@ where the author, Patrizsche, https://lichess.org/@/Patrizsche, has corroborated
 ## Our Expectations
     We expect uwu the opening to play a much stronger role in deciding the game for lower rated games as well as shorter time controls than otherwise as we believe, stronger players will be able to choose the right openings that do not give their opponent too much of an advantage, and that as time control increases, move accuracy would also increase, reducing the possible advantage gained in the opening.
 
-## For each bracket, we wish to find an optimal opening for each side, characterised by relative ease to achieve and relatively high winrates.
+For each bracket, we wish to find an optimal opening for each side, characterised by relative ease to achieve and relatively high winrates.
 
 
 
